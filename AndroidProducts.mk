@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bootleg_blueline.mk
+    $(LOCAL_DIR)/rr_blueline.mk
