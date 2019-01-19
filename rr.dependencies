@@ -3,7 +3,7 @@
    "remote": "github",
    "repository": "Resurrection-Remix-Bluecross/android_device_google_crosshatch",
    "target_path": "device/google/crosshatch",
-   "branch": "p9x"
+   "branch": "pie"
  },
  {
    "remote": "github",
